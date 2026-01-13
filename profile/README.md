@@ -1,8 +1,8 @@
-# GC.OS - German Centre for Open Source AI Software Research
+# GC.OS - German Centre for Open Source AI
 
 **AI owned by you, governed democratically, for the benefit of society.**
 
-GC.OS (German Centre for Open Source AI Software Research) is dedicated to advancing open source AI software through democratic governance and community-driven development. Our mission is to make AI accessible, transparent, and beneficial for everyone.
+GC.OS (German Centre for Open Source AI) is dedicated to advancing open source AI software through democratic governance and community-driven development. Our mission is to make AI accessible, transparent, and beneficial for everyone.
 
 For more information, visit [gcos.ai](https://gcos.ai)
 
