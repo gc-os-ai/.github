@@ -19,10 +19,11 @@ GC.OS supports the following open source AI projects:
 7. **[pykalman](https://github.com/pykalman/pykalman)** - Kalman Filters in Python
 8. **[pyportfolioopt](https://github.com/PyPortfolio/PyPortfolioOpt)** - Financial portfolio optimisation in Python
 9. **[pytorch-tabular](https://github.com/pytorch-tabular/pytorch_tabular)** - Deep Learning Models for tabular data
-10. **[skbase](https://github.com/sktime/skbase)** - Base classes and framework canvas for scikit-learn-compatible packages
-11. **[skforecast](https://github.com/skforecast/skforecast)** - Time series forecasting using machine learning models
-12. **[skpro](https://github.com/sktime/skpro)** - Supervised probabilistic prediction in Python
-13. **[sktime](https://github.com/sktime/sktime)** - The unified framework for AI with time series
+10. **[shap](https://github.com/shap/shap)** - The framework for explainable AI
+11. **[skbase](https://github.com/sktime/skbase)** - Base classes and framework canvas for scikit-learn-compatible packages
+12. **[skforecast](https://github.com/skforecast/skforecast)** - Time series forecasting using machine learning models
+13. **[skpro](https://github.com/sktime/skpro)** - Supervised probabilistic prediction in Python
+14. **[sktime](https://github.com/sktime/sktime)** - The unified framework for AI with time series
 
 ---
 
