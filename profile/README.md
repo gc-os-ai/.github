@@ -6,7 +6,7 @@ GC.OS (German Centre for Open Source AI) is dedicated to advancing open source A
 
 For more information, visit [gcos.ai](https://gcos.ai)
 
-## Projects Supported by GC.OS
+## GC.OS affiliated projects
 
 GC.OS supports the following open source AI projects:
 
